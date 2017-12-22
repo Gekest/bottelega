@@ -1,0 +1,15 @@
+[17-Dec-2017 08:55:46 UTC] PHP Strict Standards:  Declaration of PDO_::prepare() should be compatible with PDO::prepare($statement, $options = NULL) in /home/cp113024/brok.ga/classes/PDO.php on line 0
+[17-Dec-2017 08:55:46 UTC] PHP Notice:  Undefined index: courier in /home/cp113024/brok.ga/admin/category.php on line 8
+[17-Dec-2017 08:55:46 UTC] PHP Notice:  Undefined variable: _cat in /home/cp113024/brok.ga/admin/category.php on line 353
+[17-Dec-2017 08:55:46 UTC] PHP Notice:  Undefined variable: _cat in /home/cp113024/brok.ga/admin/category.php on line 353
+[17-Dec-2017 08:55:46 UTC] PHP Notice:  Undefined variable: _cat in /home/cp113024/brok.ga/admin/category.php on line 353
+[17-Dec-2017 08:55:48 UTC] PHP Strict Standards:  Declaration of PDO_::prepare() should be compatible with PDO::prepare($statement, $options = NULL) in /home/cp113024/brok.ga/classes/PDO.php on line 0
+[17-Dec-2017 08:55:54 UTC] PHP Strict Standards:  Declaration of PDO_::prepare() should be compatible with PDO::prepare($statement, $options = NULL) in /home/cp113024/brok.ga/classes/PDO.php on line 0
+[17-Dec-2017 08:55:58 UTC] PHP Strict Standards:  Declaration of PDO_::prepare() should be compatible with PDO::prepare($statement, $options = NULL) in /home/cp113024/brok.ga/classes/PDO.php on line 0
+[17-Dec-2017 08:56:00 UTC] PHP Strict Standards:  Declaration of PDO_::prepare() should be compatible with PDO::prepare($statement, $options = NULL) in /home/cp113024/brok.ga/classes/PDO.php on line 0
+[17-Dec-2017 08:56:05 UTC] PHP Strict Standards:  Declaration of PDO_::prepare() should be compatible with PDO::prepare($statement, $options = NULL) in /home/cp113024/brok.ga/classes/PDO.php on line 0
+[17-Dec-2017 08:56:12 UTC] PHP Strict Standards:  Declaration of PDO_::prepare() should be compatible with PDO::prepare($statement, $options = NULL) in /home/cp113024/brok.ga/classes/PDO.php on line 0
+[17-Dec-2017 08:56:12 UTC] PHP Notice:  Undefined index: courier in /home/cp113024/brok.ga/admin/category.php on line 8
+[17-Dec-2017 08:56:12 UTC] PHP Notice:  Undefined variable: _cat in /home/cp113024/brok.ga/admin/category.php on line 353
+[17-Dec-2017 08:56:12 UTC] PHP Notice:  Undefined variable: _cat in /home/cp113024/brok.ga/admin/category.php on line 353
+[17-Dec-2017 08:56:12 UTC] PHP Notice:  Undefined variable: _cat in /home/cp113024/brok.ga/admin/category.php on line 353
