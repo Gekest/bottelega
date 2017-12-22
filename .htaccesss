@@ -1,6 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^www\.braza\.ml [NC]
-RewriteRule ^(.*)$ http://braza.ml/$1 [L,R=301]
-
-RewriteCond %{ENV:HTTPS} !on
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
